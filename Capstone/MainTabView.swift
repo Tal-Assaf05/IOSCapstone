@@ -1,12 +1,12 @@
 import SwiftUI
 
-struct ContentView: View {
+struct MainTabView: View {
     var body: some View {
         TabView {
-            ShiftListView()
+            CalendarView()
                 .tabItem {
-                    Image(systemName: "list.bullet")
-                    Text("Shifts")
+                    Image(systemName: "calendar")
+                    Text("Home")
                 }
 
             AddShiftView()
