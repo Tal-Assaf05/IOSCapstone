@@ -1,4 +1,4 @@
-![Wireframing](https://github.com/user-attachments/assets/81c5f275-26c9-4b66-aa6a-0917f9a99e58)![Wireframing](https://github.com/user-attachments/assets/6e0b5a3b-b1fc-4d21-95ba-1da2e6d785dc)![Wireframing](https://github.com/user-attachments/assets/0fe42e4a-d9c2-42aa-b065-8ca69ba101cd)Original App Design Project - README Template
+Original App Design Project - README Template
 ===
 
 # ShiftSheet
